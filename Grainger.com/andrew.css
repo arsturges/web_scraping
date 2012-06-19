@@ -1,0 +1,37 @@
+/* price */
+div > b > font {
+	background-color: green;
+}
+
+/* serial number */
+div#contentalt1 table[align] div:first-child b {
+	background-color: red;
+}
+
+/* description */
+table + table tr + tr td a {
+	background-color: BurlyWood;
+}
+
+
+/* category  */
+div[style="padding-left:10px;"] a:first-child + a {
+	background-color: LightSeaGreen;
+}
+
+
+/* second link  */
+div[style="padding-left:10px;"] a:first-child + a + a {
+	background-color: orange;
+}
+
+
+/* last link */
+a + font {
+	background-color: HotPink;
+}
+
+/* bread crumbs */
+div[style="padding-left:10px;"] a {
+	background-color: orange;
+}
