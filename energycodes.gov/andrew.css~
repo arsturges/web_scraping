@@ -1,0 +1,21 @@
+body {
+    background-color: none;
+}
+
+h2 {
+  background-color: red;
+}
+
+td > p >b {
+  background-color: blue;
+}
+
+/html/body/table/tbody/tr/td/p[9]
+
+html body table#mainTable tbody tr td p
+
+state = /html/body/table/tbody/tr/td/h2
+state = html body table#mainTable tbody tr td h2
+
+
+com_heading = /html/body/table/tbody/tr/td/p[8]/b
