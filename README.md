@@ -1,4 +1,4 @@
-nokogiri_data_harvesting
+web_scraping
 ========================
 
-web scraping in Ruby using Nokogiri
+web scraping in Ruby using Nokogiri, and in Python using etree.
